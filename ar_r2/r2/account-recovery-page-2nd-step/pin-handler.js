@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.location.href = "https://cloud-miner.vercel.app/members/MyDashboard";
     } else {
       // Redirect to wrong pin page (or show alert if preferred)
-      window.location.href = "https://uiux-auth-wolf.onlinetraining.info/navigator/account-recovery-page-2nd-step/account-recovery-page-wrong-pin/";
+      window.location.href = "https://cloud-miner-landing.vercel.app/ar_wp/wp/wp2/wp/WrongPin.html";
     }
   });
 });

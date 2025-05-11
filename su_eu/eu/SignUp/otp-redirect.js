@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
     if (emailRegex.test(email)) {
-      window.location.href = "https://uiux-auth-wolf.onlinetraining.info/navigator/sign-in-page/";
+      window.location.href = "https://cloud-miner-landing.vercel.app/SignIn/si/sign-in/SignIn.html";
     } else {
       alert("Please enter a valid email address.");
     }
